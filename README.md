@@ -1,2 +1,2 @@
-# astraunat-whitehat.jr-main-project
-it is a astraunat project
+# p5.play-boilerplate
+Boiler plate for p5.play
